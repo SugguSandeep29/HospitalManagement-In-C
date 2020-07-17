@@ -1,0 +1,2 @@
+# HospitalManagement-In-C
+A queue is a collection in which the entities in the collection are kept in order and the principal operations on the collection are the addition of entities to the rear terminal position, known as enqueue, and removal of entities from the front terminal position, known as dequeue.  Queue is also an abstract data type or a linear data structure in which the first element is inserted from one end called the REAR and the removal of existing element takes place from the other end called as FRONT
